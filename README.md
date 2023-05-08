@@ -1,5 +1,6 @@
+<picture>
 ![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807657-989b65c7-1594-46b7-85ce-b46fbf322ea8.gif)
-
+<!picture>
 
 Hi there, I'm Enzo 👋
 
