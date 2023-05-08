@@ -1,7 +1,7 @@
 ![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807657-989b65c7-1594-46b7-85ce-b46fbf322ea8.gif)
 
 <h3 align=”center”>
-Hi there, I’m <a href=”https://enzo2806.github.io” rel=”noreferrer”>Enzo</a> 👋
+Hi there, I’m <a href=”https://enzo2806.github.io” target=”_blank” rel=”noreferrer”>Enzo</a> 👋
 </h3>
   
 I'm a Back-end Developer 💻, Photographer 📸, and Designer 🎨!
