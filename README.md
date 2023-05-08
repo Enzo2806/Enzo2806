@@ -1,21 +1,13 @@
-<picture>
 ![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807657-989b65c7-1594-46b7-85ce-b46fbf322ea8.gif)
-<!picture>
 
+<p align=”center”>
 Hi there, I'm Enzo 👋
+<!p>
+  
+I'm a Back-end Developer 💻, Photographer 📸, and Designer 🎨!
 
-
-<!--
-**Enzo2806/Enzo2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💼 Technical Skills: 
+  
+  https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
