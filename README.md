@@ -8,6 +8,6 @@ I'm a Back-end Developer 💻, Photographer 📸, and Designer 🎨!
 
 - 💼 Technical Skills: 
   
-  https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   
 - 📫 How to reach me: ...
