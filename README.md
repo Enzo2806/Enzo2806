@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807411-5f39df5b-aa31-4289-b6af-f5f05759eabc.gif)
+
+Hi there, I'm Enzo 👋
+
 
 <!--
 **Enzo2806/Enzo2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
