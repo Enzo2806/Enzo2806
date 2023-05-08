@@ -1,5 +1,5 @@
+![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807657-989b65c7-1594-46b7-85ce-b46fbf322ea8.gif)
 
-![Animated-Banner-with-name](https://user-images.githubusercontent.com/72216366/236807411-5f39df5b-aa31-4289-b6af-f5f05759eabc.gif)
 
 Hi there, I'm Enzo 👋
 
