@@ -9,6 +9,9 @@ I'm a Full-stack Developer 💻, Machine Learning Engineer 🦾, Photographer �
   -  [Assembly Labs](https://github.com/Enzo2806/Assembly-Labs) (2022): Assembly
   -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (2022): Springboot, Vue.js
 - 🦾 Artificial Intelligence Projects:
+  - [MLP and CNN](https://github.com/Enzo2806/MLP-CNN)
+  - [Logistic and Multiclass Regression](https://github.com/Enzo2806/Logistic-Multiclass)
+  - [KNN and Decision Tree](https://github.com/Enzo2806/KNN-DecisionTree)
   - [Image Compression using Fast Fourier Transform](https://github.com/Enzo2806/ECSE343-FinalProject): Python, Numpy, Matplotlib, Pillow
 - 💼 Technical Skills: 
 
