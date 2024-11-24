@@ -4,10 +4,11 @@
   
 I'm a Full-stack Developer 💻, Machine Learning Engineer 🦾, Photographer 📸, and Designer 🎨!
 ## 💻 Software Engineering Projects:
+  -  [MedicAI: Patient-Doctor AI Matching Intelligent System and Database](https://github.com/Enzo2806/MedicAI/tree/main)(Winter 2024): Python, Flask, Hugging Face, React, IBMDB2 SQL, PyTorch
   -  [Local Stores Shopping Mobile Application](https://github.com/Enzo2806/LocalBee-Mobile-Application)(Winter 2024): Dart, Firebase
-  -  [Social Media Web Application](https://github.com/Enzo2806/Purposeful)(Winter 2023): Springboot, React.js
+  -  [Social Media Web Application](https://github.com/Enzo2806/Purposeful)(Winter 2023): Springboot, React.js, PostgreSQL
   -  [Assembly Labs](https://github.com/Enzo2806/Assembly-Labs) (Winter 2022): Assembly
-  -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (Winter 2022): Springboot, Vue.js
+  -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (Winter 2022): Springboot, Vue.js, PostgreSQL
 ## 🦾 Artificial Intelligence Projects:
   - [SlimeVolleyBall: A comparative analysis of different training algorithms for 1v1 RL Environments](https://github.com/Enzo2806/SlimeVolleyball?tab=readme-ov-file)(Winter 2024): PyTorch, Numpy, Pandas, OpenCV, Gym
   - [Reinforcment Learning](https://github.com/Enzo2806/Reinforcement-Learning/tree/main)(Winter 2024): Numpy, PyTorch, Matplotlib, Pandas, Gym (OpenAI)
