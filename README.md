@@ -5,14 +5,16 @@
 I'm a Full-stack Developer 💻, Machine Learning Engineer 🦾, Photographer 📸, and Designer 🎨!
 
 - 💻 Software Engineering Projects:
-  -  [Local Stores Shopping Mobile Application](https://github.com/Enzo2806/LocalBee-Mobile-Application): Dart, Firebase
-  -  [Assembly Labs](https://github.com/Enzo2806/Assembly-Labs) (2022): Assembly
-  -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (2022): Springboot, Vue.js
+  -  [Local Stores Shopping Mobile Application](https://github.com/Enzo2806/LocalBee-Mobile-Application)(Winter 2024): Dart, Firebase
+  -  [Social Media Web Application](https://github.com/Enzo2806/Purposeful)(Winter 2023): Springboot, React.js
+  -  [Assembly Labs](https://github.com/Enzo2806/Assembly-Labs) (Winter 2022): Assembly
+  -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (Winter 2022): Springboot, Vue.js
 - 🦾 Artificial Intelligence Projects:
-  - [MLP and CNN](https://github.com/Enzo2806/MLP-CNN)
-  - [Logistic and Multiclass Regression](https://github.com/Enzo2806/Logistic-Multiclass)
-  - [KNN and Decision Tree](https://github.com/Enzo2806/KNN-DecisionTree)
-  - [Image Compression using Fast Fourier Transform](https://github.com/Enzo2806/ECSE343-FinalProject): Python, Numpy, Matplotlib, Pillow
+  - [RecogniChess: An unsupervised domain adaptation approach to chessboard recognition](Winter 2023): PyTorch, 
+  - [MLP and CNN](https://github.com/Enzo2806/MLP-CNN)(Fall 2022)
+  - [Logistic and Multiclass Regression](https://github.com/Enzo2806/Logistic-Multiclass)(Fall 2022)
+  - [KNN and Decision Tree](https://github.com/Enzo2806/KNN-DecisionTree)(Fall 2022)
+  - [Image Compression using Fast Fourier Transform](https://github.com/Enzo2806/ECSE343-FinalProject)(Winter 2022): Python, Numpy, Matplotlib, Pillow
 - 💼 Technical Skills: 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=for-the-badge&logo=swift&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Ocaml](https://img.shields.io/badge/OCaml-E34F26?style=for-the-badge&logo=ocaml&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
