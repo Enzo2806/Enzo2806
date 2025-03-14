@@ -10,6 +10,7 @@ I'm a Full-stack Developer 💻, Machine Learning Engineer 🦾, Photographer �
   -  [Assembly Labs](https://github.com/Enzo2806/Assembly-Labs) (Winter 2022): Assembly
   -  [Grocery Store Software System](https://github.com/Enzo2806/Grocery-Store-Software-System) (Winter 2022): Springboot, Vue.js, PostgreSQL
 ## 🦾 Artificial Intelligence Projects:
+  - [Computer Vision](https://github.com/Enzo2806/Computer-Vision): Python, YOLO, Numpy, PyTorch, Matplotlib
   - [SlimeVolleyBall: A comparative analysis of different training algorithms for 1v1 RL Environments](https://github.com/Enzo2806/SlimeVolleyball?tab=readme-ov-file)(Winter 2024): PyTorch, Numpy, Pandas, OpenCV, Gym
   - [Reinforcment Learning](https://github.com/Enzo2806/Reinforcement-Learning/tree/main)(Winter 2024): Numpy, PyTorch, Matplotlib, Pandas, Gym (OpenAI)
   - [Natural Language Processing](https://github.com/Enzo2806/Natural-language-processing)(Fall 2023): NLTK, Scikit-Learn, PyTorch, Matplotlib, Pandas, Numpy
